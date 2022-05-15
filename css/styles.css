@@ -30,10 +30,12 @@ h1.txt{
     margin: 0 10px;
   }
 
-.textbox {
+
+  
+  .textbox {
     position:absolute;
     top: 5%;
-    right:5%;
+    left:5%;
     background-color: #fec611 ;
     font-size:20px;
     height:auto;
@@ -41,7 +43,21 @@ h1.txt{
     color:white;
     padding: 10px;
     box-shadow: -5px 5px 0px 1px #00b3ba;
+    text-shadow: 1px 1px 1px #686666;
   } 
+
+a.textbox{
+  right:5%;
+  left:auto;
+  text-decoration:none;
+  background-color: #00b3ba ;
+  box-shadow: -5px 5px 0px 1px #fec611;
+}
+
+a.textbox:hover{
+  background-color: #fec611 ;
+  box-shadow: -5px 5px 0px 1px #00b3ba;
+}
 
 .footer{
    display: block;
