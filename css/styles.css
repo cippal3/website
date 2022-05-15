@@ -54,7 +54,7 @@ h1.txt {
   width: auto;
   color: white;
   padding: 10px;
-  box-shadow: -5px 5px 0px 1px #00b3ba;
+  box-shadow: 5px 5px 0px 1px #00b3ba;
   text-shadow: 1px 1px 1px #686666;
 }
 
