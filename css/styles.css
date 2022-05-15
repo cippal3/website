@@ -78,7 +78,13 @@ h1.txt{
   }
 }
 
-@media (max-height:570px){
+@media (max-height:570px and min-width:300px){
+  .footer{
+    position:static;
+  }
+}
+
+@media (max-height:600px and min-width:970px){
   .footer{
     position:static;
   }
