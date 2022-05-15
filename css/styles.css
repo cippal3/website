@@ -1,19 +1,4 @@
-@import url(//db.onlinewebfonts.com/c/5fd2a1f31ab789dd7ade72ba773e7910?family=Sana+Sans);
-
-@font-face {
-  font-family: "Sana Sans";
-  src: url("//db.onlinewebfonts.com/t/5fd2a1f31ab789dd7ade72ba773e7910.eot");
-  src: url("//db.onlinewebfonts.com/t/5fd2a1f31ab789dd7ade72ba773e7910.eot?#iefix")
-      format("embedded-opentype"),
-    url("//db.onlinewebfonts.com/t/5fd2a1f31ab789dd7ade72ba773e7910.woff2")
-      format("woff2"),
-    url("//db.onlinewebfonts.com/t/5fd2a1f31ab789dd7ade72ba773e7910.woff")
-      format("woff"),
-    url("//db.onlinewebfonts.com/t/5fd2a1f31ab789dd7ade72ba773e7910.ttf")
-      format("truetype"),
-    url("//db.onlinewebfonts.com/t/5fd2a1f31ab789dd7ade72ba773e7910.svg#Sana Sans")
-      format("svg");
-}
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@700&display=swap');
 
 .center {
   display: block;
@@ -24,7 +9,7 @@
 }
 
 .txt {
-  font-family: "Sana Sans", Times, serif;
+  font-family: "Dosis", Times, serif;
   font-size: 18px;
 }
 
