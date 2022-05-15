@@ -78,8 +78,10 @@ h1.txt{
   }
 }
 
-@media (max-height:100px){
-  
+@media (max-height:570px){
+  .footer{
+    position:static;
+  }
 }
 
 .bottom-bg{
