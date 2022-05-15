@@ -27,6 +27,7 @@ h1.txt{
 .logo{
     width: 10%;
     height: auto;
+    margin: 0 10px;
   }
 
 .textbox {
