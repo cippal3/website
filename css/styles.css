@@ -2,6 +2,10 @@
 
 @font-face {font-family: "Sana Sans"; src: url("//db.onlinewebfonts.com/t/5fd2a1f31ab789dd7ade72ba773e7910.eot"); src: url("//db.onlinewebfonts.com/t/5fd2a1f31ab789dd7ade72ba773e7910.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/5fd2a1f31ab789dd7ade72ba773e7910.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/5fd2a1f31ab789dd7ade72ba773e7910.woff") format("woff"), url("//db.onlinewebfonts.com/t/5fd2a1f31ab789dd7ade72ba773e7910.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/5fd2a1f31ab789dd7ade72ba773e7910.svg#Sana Sans") format("svg"); } 
 
+body{
+  margin:0;
+}
+
 .center {
   display: block;
   margin: 0 auto;
