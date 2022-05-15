@@ -82,17 +82,18 @@ h1.txt{
   }
 }
 
-@media (max-height:570px and min-width:300px){
+@media (max-height:570px) and (min-width:300px){
   .footer{
     position:static;
   }
 }
 
-@media (max-height:600px and min-width:970px){
+@media (max-height:600px) and (min-width:970px){
   .footer{
     position:static;
   }
 }
+
 
 .bottom-bg{
    background-size: 100%;
