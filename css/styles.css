@@ -10,8 +10,13 @@
   text-align: center;
 }
 
-.txt {
+.txt{
   font-family: "Sana Sans", Times, serif;
+}
+
+.cippal{
+  width: 40%;
+  height: auto;
 }
 
 .logo{
@@ -20,8 +25,8 @@
 }
 
 .logo{
-    max-width: 30%;
-    max-height: 30%;
+    width: 30%;
+    height: auto;
   }
 
 .textbox {
