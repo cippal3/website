@@ -28,6 +28,7 @@ h1.txt{
     width: 10%;
     height: auto;
     margin: 0 10px;
+    max-width: 100px;
   }
 
 
