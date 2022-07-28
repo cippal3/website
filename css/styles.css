@@ -85,6 +85,40 @@ a.mail:hover {
   width: 400px;
 }
 
+.infos {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  grid-template-rows: 1fr;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  justify-items: center;
+  max-width: 500px;
+  margin: 30px auto;
+}
+
+
+.infos p {
+  background: #02b156;
+  box-shadow: 5px 5px 0px 1px #016a27;
+  max-width: 200px;
+  padding: 5px 10px;
+  color: #fff;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+  font-size: 22px;
+}
+
+.infos ul li {
+  background: gray;
+  list-style: none;
+  padding: 5px 5px;
+  margin-bottom: 5px;
+  color: #fff;
+  font-family: 'Dosis', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
 @media (max-width: 700px) {
   .textbox {
     position: static;
