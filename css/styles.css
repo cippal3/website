@@ -43,13 +43,15 @@ h1.txt {
   text-shadow: 1px 1px 1px #686666;
 }
 
-a.textbox {
+a.mail {
   right: 5%;
   left: auto;
   text-decoration: none;
   background-color: #00b3ba;
   box-shadow: -5px 5px 0px 1px #fec611;
 }
+
+
 
 a.textbox:hover {
   background-color: #fec611;
