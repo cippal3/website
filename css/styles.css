@@ -54,6 +54,11 @@ a.mail {
 
 
 a.textbox:hover {
+  background-color: #00b3ba;
+  box-shadow: 5px -5px 0px 1px #fec611;
+}
+
+a.mail:hover {
   background-color: #fec611;
   box-shadow: -5px 5px 0px 1px #00b3ba;
 }
