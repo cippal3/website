@@ -108,6 +108,11 @@ a.mail:hover {
   font-size: 22px;
 }
 
+.infos p a{
+  text-decoration: none;
+  color: #fff;
+}
+
 .infos ul li {
   background: gray;
   list-style: none;
