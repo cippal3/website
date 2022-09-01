@@ -108,9 +108,24 @@ a.mail:hover {
   font-size: 22px;
 }
 
-.infos p a{
-  text-decoration: none;
-  color: #fff;
+.infos p a { 
+  text-decoration: none; 
+  color: #fff; 
+  display: block; 
+}
+
+.infos p:hover { 
+  background: #016a27; 
+  box-shadow: 5px 5px 0px 1px #02b156; 
+}
+
+.infos p.modelos { 
+  background: #0175be; 
+  box-shadow: 5px 5px 0px 1px #0353a9; 
+}
+.infos p.modelos:hover { 
+  background: #0353a9; 
+  box-shadow: 5px 5px 0px 1px #0175be; 
 }
 
 .infos ul li {
